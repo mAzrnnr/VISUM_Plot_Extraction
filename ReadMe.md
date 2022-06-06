@@ -9,7 +9,7 @@ Description
 ----------------------------
 Tool to generate plots from active scenarios in the Scenario Manager
 Can generate plots from multiple GPA files
-Modifies Title of Legend based on scenario’s description
+Modifies Title of Legend based on scenarioâ€™s description
 
 Requirements:
 ---------------------------------
@@ -22,7 +22,7 @@ Requires glob module which can be installed by command pip install glob2 in comm
 Procedure to run
 -----------------------------
 Copy relevant GPA files in the same folder containing the script
-In ‘Edit Project’ window, set as active the scenarios for which plots needs to be generated
+In â€˜Edit Projectâ€™ window, set as active the scenarios for which plots needs to be generated
 Run the script from the Scripts menu
 
 
